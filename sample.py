@@ -43,7 +43,7 @@ if __name__ == '__main__':
     parser.add_argument('--save_dir', type=str, default='./result/',
                         help='Directory to save output results')
     parser.add_argument('--test_folder', type=str, 
-                        default='./x8/t1_t1ce_t2',
+                        default='./Dataset/Medical_Image',
                         help='Path to test dataset folder')
     parser.add_argument('--scale', type=int, default=30,
                         help='Scale factor for image cropping to make it divisible')
