@@ -4,7 +4,9 @@
 
 [Yushen Xu](https://scholar.google.com.hk/citations?user=NnD7vQYAAAAJ&hl=zh-CN), [Xiaosong Li](https://www.fosu.edu.cn/spoe/yanjiu/ssds/gxgc/11653.html)\*, [Yuchun Wang](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=xB57YWYAAAAJ), [Xiaoqi Cheng](https://www.fosu.edu.cn/mee/teachers/teachers-jxdzgcx/20469.html), [Huafeng Li](https://lhf12278.github.io/)
 
--[*[Paper]*](https://www.sciencedirect.com/science/article/abs/pii/S0957417425025126)  
+[![arxiv](https://img.shields.io/badge/Arxiv-2509.09456-red)](https://arxiv.org/abs/2509.09456) [![Elsevier](https://img.shields.io/badge/Elsevier-ESWA-FF6C00)](https://www.sciencedirect.com/science/article/abs/pii/S0957417425025126)
+
+
 
 <p align="center">
   <img src="assert/Fig1.png" alt="Framework" width="80%" height="auto" />
